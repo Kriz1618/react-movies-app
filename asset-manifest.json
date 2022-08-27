@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Kriz1618/react-movies-app/static/css/main.e9aecad8.css",
+    "main.js": "/Kriz1618/react-movies-app/static/js/main.cd5ceb28.js",
+    "index.html": "/Kriz1618/react-movies-app/index.html",
+    "main.e9aecad8.css.map": "/Kriz1618/react-movies-app/static/css/main.e9aecad8.css.map",
+    "main.cd5ceb28.js.map": "/Kriz1618/react-movies-app/static/js/main.cd5ceb28.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e9aecad8.css",
+    "static/js/main.cd5ceb28.js"
+  ]
+}
